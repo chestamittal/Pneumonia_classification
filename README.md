@@ -104,6 +104,6 @@ The model was converted into a TFLite model using the TFLiteConverter for deploy
 
 ## Screenshots
 
-<img src="https://github.com/Rostux/Pneumonia_classification/blob/master/screenshots/home.jpeg" alt="Home Screen" width="250px" height="400px">
-<img src="https://github.com/Rostux/Pneumonia_classification/blob/master/screenshots/pneumonia.jpeg" alt="Pneumonia classification" width="250px" height="400px">
-<img src="https://github.com/Rostux/Pneumonia_classification/blob/master/screenshots/normal.jpeg" alt="Normal classification" width="250px" height="400px">
+<img src="https://github.com/chestamittal/Pneumonia_classification/blob/master/screenshots/home.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/chestamittal/Pneumonia_classification/blob/master/screenshots/pneumonia.jpeg" alt="Pneumonia classification" width="250px" height="400px">
+<img src="https://github.com/chestamittal/Pneumonia_classification/blob/master/screenshots/normal.jpeg" alt="Normal classification" width="250px" height="400px">
